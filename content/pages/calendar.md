@@ -4,19 +4,208 @@ title: Calendar
 uid: 58b685dd-0ecb-5f17-bca9-04cd4af5f6c3
 ---
 
-| WEEK | TOPICS |
-| --- | --- |
-| 1 | **Introduction** {{< br >}}{{< br >}} Welcome, resource overview, project ideas {{< br >}}{{< br >}}  |
-| 2 | **Graphic design** {{< br >}}{{< br >}} Lab: Photoshop, print project - proposal {{< br >}}{{< br >}}  |
-| 3 | **Illustration** {{< br >}}{{< br >}} Lab: Illustrator, print project - storyboards {{< br >}}{{< br >}}  |
-| 4 | **Typography** {{< br >}}{{< br >}} Lab: Print project - work in progress, feedback {{< br >}}{{< br >}} _Completed print project due_ {{< br >}}{{< br >}}  |
-| 5 | **Visual storytelling** {{< br >}}{{< br >}} Lab: After Effects, Premiere Pro {{< br >}}{{< br >}}  |
-| 6 | **Animation** {{< br >}}{{< br >}} Lab: Maya, animation project - proposal {{< br >}}{{< br >}}  |
-| 7 | **Story development** {{< br >}}{{< br >}} Lab: Animation project - storyboards {{< br >}}{{< br >}}  |
-| 8 | **Cinematography** {{< br >}}{{< br >}} Lab: Animation project - work in progress, feedback {{< br >}}{{< br >}}  |
-| 9 | **Picture and sound editing** {{< br >}}{{< br >}} Lab: Animation project - work in progress, feedback {{< br >}}{{< br >}} _Completed animation project due_ {{< br >}}{{< br >}}  |
-| 10 | **User interface design** {{< br >}}{{< br >}} Lab: Unity, interactive media project - proposal {{< br >}}{{< br >}}  |
-| 11 | **Game development** {{< br >}}{{< br >}} Lab: Interactive media project - storyboards {{< br >}}{{< br >}}  |
-| 12 | **Teaching and learning with visualizations** {{< br >}}{{< br >}} Lab: Interactive media project - work in progress, feedback {{< br >}}{{< br >}}  |
-| 13 | **State of the art** {{< br >}}{{< br >}} Lab: Interactive media project - work in progress, feedback {{< br >}}{{< br >}}  |
-| 14 | **Conclusion** {{< br >}}{{< br >}} Lab: Interactive media project - work in progress, feedback {{< br >}}{{< br >}} _Completed interactive media project due_ {{< br >}}{{< br >}} _Presentations and discussion_ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+**Introduction**
+
+Welcome, resource overview, project ideas
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+**Graphic design**
+
+Lab: Photoshop, print project - proposal
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+**Illustration**
+
+Lab: Illustrator, print project - storyboards
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+**Typography**
+
+Lab: Print project - work in progress, feedback
+
+_Completed print project due_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+**Visual storytelling**
+
+Lab: After Effects, Premiere Pro
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+**Animation**
+
+Lab: Maya, animation project - proposal
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+**Story development**
+
+Lab: Animation project - storyboards
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+**Cinematography**
+
+Lab: Animation project - work in progress, feedback
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+**Picture and sound editing**
+
+Lab: Animation project - work in progress, feedback
+
+_Completed animation project due_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+**User interface design**
+
+Lab: Unity, interactive media project - proposal
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+**Game development**
+
+Lab: Interactive media project - storyboards
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+**Teaching and learning with visualizations**
+
+Lab: Interactive media project - work in progress, feedback
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+**State of the art**
+
+Lab: Interactive media project - work in progress, feedback
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+**Conclusion**
+
+Lab: Interactive media project - work in progress, feedback
+
+_Completed interactive media project due_
+
+_Presentations and discussion_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
